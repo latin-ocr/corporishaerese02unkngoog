@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corporishaerese02unkngoog_0288.png"; bbox 0 0 3046 5124; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 242 1627 1089 1751">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 242 1627 1089 1751">
+     <span class='ocr_line' id='line_1_1' title="bbox 242 1627 1089 1751; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 242 1627 526 1751; x_wconf 68' lang='lat' dir='ltr'><strong>Psnuno</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 543 1692 564 1721; x_wconf 95' lang='lat'>·</span> <span class='ocrx_word' id='word_1_3' title='bbox 581 1628 1089 1750; x_wconf 71' lang='lat' dir='ltr'><strong>mmmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 362 1948 736 2072">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 362 1948 736 2072">
+     <span class='ocr_line' id='line_1_2' title="bbox 362 1948 736 2072; baseline 0.003 -1"><span class='ocrx_word' id='word_1_4' title='bbox 362 1948 369 1963; x_wconf 78' lang='grc'>’</span> <span class='ocrx_word' id='word_1_5' title='bbox 594 1993 736 2072; x_wconf 75' lang='lat' dir='ltr'>LIBER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 115 2317 1213 2464">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 115 2317 1213 2464">
+     <span class='ocr_line' id='line_1_3' title="bbox 115 2317 1213 2464; baseline -0.002 -39"><span class='ocrx_word' id='word_1_6' title='bbox 115 2319 502 2426; x_wconf 73' lang='lat' dir='ltr'><strong>ADVERSUS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 537 2318 784 2428; x_wconf 79' lang='lat' dir='ltr'><strong>OMNES</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 819 2317 1213 2464; x_wconf 76' lang='lat' dir='ltr'><strong>HAERESES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1528 5124">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1528 5124">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1528 5124; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1528 5124; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

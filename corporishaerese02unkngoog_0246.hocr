@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corporishaerese02unkngoog_0246.png"; bbox 0 0 3046 5124; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 121 1699 1020 1899">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 121 1699 1020 1899">
+     <span class='ocr_line' id='line_1_1' title="bbox 121 1699 1020 1899; baseline 0.007 -81"><span class='ocrx_word' id='word_1_1' title='bbox 121 1866 139 1899; x_wconf 44' lang='grc'><strong>.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 278 1699 1020 1825; x_wconf 77' lang='lat' dir='ltr'><strong>PRAEDESTINATI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 446 1964 849 2042">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 446 1964 849 2042">
+     <span class='ocr_line' id='line_1_2' title="bbox 446 1964 849 2042; baseline 0.007 -3"><span class='ocrx_word' id='word_1_3' title='bbox 446 1964 616 2041; x_wconf 86' lang='lat' dir='ltr'><strong>LIBER</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 641 1965 849 2042; x_wconf 84' lang='lat' dir='ltr'>PRIMUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 270 2381 918 2512">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 270 2381 918 2512">
+     <span class='ocr_line' id='line_1_3' title="bbox 270 2381 918 2512; baseline -0.008 0"><span class='ocrx_word' id='word_1_5' title='bbox 270 2391 273 2395; x_wconf 68' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 377 2381 918 2512; x_wconf 81' lang='lat' dir='ltr'><strong>HAERESIBUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 547 2836 746 2845">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 547 2836 746 2845">
+     <span class='ocr_line' id='line_1_4' title="bbox 547 2836 746 2845; baseline 0.005 -1"><span class='ocrx_word' id='word_1_7' title='bbox 547 2836 746 2845; x_wconf 52' lang='lat'><strong>-0——0-0—</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1528 5124">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1528 5124">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1528 5124; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1528 5124; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
